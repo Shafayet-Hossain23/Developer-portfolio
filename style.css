@@ -80,3 +80,7 @@ h1 {
 .center {
     text-align: center;
 }
+
+#padding-right {
+    padding-right: 110px;
+}
